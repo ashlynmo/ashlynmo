@@ -9,7 +9,7 @@
 </section>
 
 <section>
-  <h2>Skill Set ✨</h2>
+  <h2>Skills ✨</h2>
   <div>
     <!-- Visual Studio --!> 
     <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
