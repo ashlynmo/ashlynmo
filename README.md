@@ -4,7 +4,7 @@
     <img src="https://user-images.githubusercontent.com/74038190/216656959-bdd9b5f2-9fc8-438e-bbf3-3674c39ec746.gif" width="300" height="200"/>
   </div>
   <div>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=406A8D&width=600&lines=Software+Engineer+in+training+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Building+cool+things+with+code+%26+caffeine+%E2%98%95;90%25+C%23%2C+10%25+emotional+damage+%F0%9F%8E%80" alt="Typing SVG" /></a>
+     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=Software+Engineer+in+training+%F0%9F%91%A9%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB;Creating+cool+things+with+code+%26+caffeine+%F0%9F%8D%B5;Just+a+lil+div+in+a+big+flexbox+world+%F0%9F%AB%A7" alt="Typing SVG" /></a>
   </div>
 </section>
 
