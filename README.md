@@ -39,7 +39,6 @@
   <h2>GitHub Stats 🌱</h2>
     <div>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashlynmo&theme=vue&show_icons=true&hide_border=true&layout=compact"/> <br><br>
-      <img src="https://github-readme-stats.vercel.app/api?username=ashlynmo&theme=vue&show_icons=true&hide_border=true&count_private=true"/> <br><br>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashlynmo&theme=vue&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=ashlynmo&theme=vue&show_icons=true&hide_border=true&count_private=false" />
     </div>
 </section>
