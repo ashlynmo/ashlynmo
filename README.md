@@ -33,7 +33,7 @@
   <h2>Other Projects 💻</h2>
   <h3>Sage and Moon</h3>
   <a href="https://sageandmoon.netlify.app/sageandmoon.co/index.html">Sage and Moon Co</a>
-  Sage and Moon is a Netlify app created from a static copy of sageandmoon.co. Sage and Moon was an e-commerce blog for a wellness and spirituality brand that ran from 2019–2025. Designed with WordPress, graphic design tools (Canva, Elementor), and custom HTML / CSS.
+  Live demo of a fully customized WordPress site. I implemented custom CSS, HTML tweaks, and layout adjustments.
 </section>
   
 <section>
