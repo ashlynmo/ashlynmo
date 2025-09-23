@@ -33,7 +33,7 @@
   <h2>Other Projects 💻</h2>
   <h3>Sage and Moon</h3>
   <a href="https://sageandmoon.netlify.app/sageandmoon.co/index.html">Sage and Moon Co</a>
-  Live demo of a fully customized WordPress site. I implemented custom CSS, HTML tweaks, and layout adjustments.
+  Live demo of a fully customized WordPress site for a spiritual wellness brand. All graphic and web content is designed by me with Canva, Elementor, and custom CSS & HTML.
 </section>
   
 <section>
